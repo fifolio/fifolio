@@ -4,14 +4,6 @@
 <h3 align="center">Hey 👋, This is Firas</h1>
 <h3 align="center">ꜱᴇʟꜰ-ᴛᴀᴜɢʜᴛ ꜰʀᴏɴᴛ ᴇɴᴅ ᴡᴇʙ ᴇɴɢɪɴᴇᴇʀ ᴄʀᴇᴀᴛɪᴠᴇ ᴀɴᴅ ᴘʀᴏʙʟᴇᴍ ꜱᴏʟᴠᴇʀ, ᴡɪᴛʜ ᴀ ᴘᴀꜱꜱɪᴏɴ ꜰᴏʀ ʙᴏᴛʜ ᴘᴇʀꜱᴏɴᴀʟ ɢʀᴏᴡᴛʜ ᴀɴᴅ ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ, ɪ ᴇɴᴊᴏʏ ᴡᴏʀᴋɪɴɢ ᴄʟᴏꜱᴇʟʏ ᴡɪᴛʜ ᴛᴇᴀᴍ ᴍᴇᴍʙᴇʀꜱ ᴛᴏ ᴇɴꜱᴜʀᴇ ᴅᴇʙᴜɢɢɪɴɢ ᴇꜰꜰᴇᴄᴛɪᴠᴇʟʏ ᴀɴᴅ ᴘᴇʀꜱᴏɴᴀʟʟʏ ʟᴇᴀᴅɪɴɢ ᴡʜᴇɴ ɴᴇᴄᴇꜱꜱᴀʀʏ.</h3>
 <img align="center" width="100%" alt="Coding" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" />
-<!-- 
-- 🌱 I’m currently learning **⚛️ React, ⚛️ React Native**
-
-- 👨‍💻 All of my projects are available at [http://fifolio.netlify.app/](http://fifolio.netlify.app/)
-
-- 💬 Ask me about **JS(ES6+), React, BootStrap(5+), Git, SASS, CSS3, HTML5**
-
-- 📫 How to reach me **firasdabbabi@gmail.com** -->
 
 <h3 align="center">Connect with me 👇</h3>
 <p align="center">
