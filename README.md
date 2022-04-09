@@ -1,8 +1,8 @@
-<h1 align ="center">𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓢𝓹𝓪𝓬𝓮𝓼𝓱𝓲𝓹</h1>
+<h1 align ="center">𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓢𝓹𝓪𝓬𝓮𝓼𝓱𝓲𝓹 🚀</h1>
 <img align="center" alt="welcome" style="border-radius: 10px" src="https://cdna.artstation.com/p/assets/images/images/025/789/352/original/pixel-jeff-galaxy-far-far-away.gif?1586928273" />
 
 
-<h3 align="center">Hey 👋, This is Firas</h1>
+<h3 align="center">Hey 👋, This is Firas 😊</h1>
 
 <h3 align="center">ꜱᴇʟꜰ-ᴛᴀᴜɢʜᴛ ꜰʀᴏɴᴛ ᴇɴᴅ ᴡᴇʙ ᴇɴɢɪɴᴇᴇʀ ᴄʀᴇᴀᴛɪᴠᴇ ᴀɴᴅ ᴘʀᴏʙʟᴇᴍ ꜱᴏʟᴠᴇʀ, ᴡɪᴛʜ ᴀ ᴘᴀꜱꜱɪᴏɴ ꜰᴏʀ ʙᴏᴛʜ ᴘᴇʀꜱᴏɴᴀʟ ɢʀᴏᴡᴛʜ ᴀɴᴅ ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ, ɪ ᴇɴᴊᴏʏ ᴡᴏʀᴋɪɴɢ ᴄʟᴏꜱᴇʟʏ ᴡɪᴛʜ ᴛᴇᴀᴍ ᴍᴇᴍʙᴇʀꜱ ᴛᴏ ᴇɴꜱᴜʀᴇ ᴅᴇʙᴜɢɢɪɴɢ ᴇꜰꜰᴇᴄᴛɪᴠᴇʟʏ ᴀɴᴅ ᴘᴇʀꜱᴏɴᴀʟʟʏ ʟᴇᴀᴅɪɴɢ ᴡʜᴇɴ ɴᴇᴄᴇꜱꜱᴀʀʏ.</h3>
 <img align="center" width="100%" alt="Coding" style="border-radius: 10px"  src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" />
@@ -11,7 +11,7 @@
 <h3 align="center">Connect with me 👇</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/fifolio" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="fifolio" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fifolio" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="fifolio" height="40" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools 👇</h3>
