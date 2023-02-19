@@ -4,7 +4,7 @@
 
 <h3>Hey 👋</h1>
 
-<h3 align="center">Innovative, task-driven Software Engineer and undergraduate majoring in Computer Science, with a passion for developing scalable web applications and working across the full stack. I look forward to continuing to grow my skill set while contributing towards a positive outcome. I constantly learn the latest programming packages and use techniques to model thinking methods as a problem-solving tool and work continuously to produce high-quality, efficient projects.</h3>
+<h4>Innovative, task-driven Software Engineer and undergraduate majoring in Computer Science, with a passion for developing scalable web applications and working across the full stack. I look forward to continuing to grow my skill set while contributing towards a positive outcome. I constantly learn the latest programming packages and use techniques to model thinking methods as a problem-solving tool and work continuously to produce high-quality, efficient projects.</h3>
 <img align="center" width="100%" alt="Coding" style="border-radius: 10px"  src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" />
 
 
