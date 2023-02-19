@@ -10,7 +10,7 @@
 
 <h3 align="center">Connect with me 👇</h3>
 
-<p align="center">
+<p>
 <a target="_blank" href="https://linkedin.com/in/fifolio"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="fifolio" height="50" width="50" /></a>
 </p>
 
