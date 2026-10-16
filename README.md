@@ -1,3 +1,4 @@
+
  <div align="center">
 
   <h1>Aw! Hey, I'm Firas 👋</h1>
@@ -73,8 +74,8 @@ These are my top 2 projects I've built from scratch while exploring different te
 
 | Project | Preview | What it's about | Repository |
 |---|---|---|---|
-| **[ATM](https://github.com/fifolio/ATM)** | <!-- TODO: Replace with your ATM screenshot URL --> <img src="YOUR_ATM_IMAGE_URL" width="180" alt="ATM project preview" /> | An AI-powered cryptocurrency price-movement prediction agent designed to provide market insights and trading signals. | [View code →](https://github.com/fifolio/ATM) |
-| **[Glori](https://github.com/fifolio/Glori)** | <!-- TODO: Replace with your Glori screenshot URL --> <img src="YOUR_GLORI_IMAGE_URL" width="180" alt="Glori project preview" /> | A full-stack luxury perfume e-commerce platform featuring product browsing, authentication, and checkout functionality. | [View code →](https://github.com/fifolio/Glori) |
+| **[ATM](https://github.com/fifolio/ATM)** | <!-- TODO: Replace with your ATM screenshot URL --> <img src="https://raw.githubusercontent.com/fifolio/fifolio/refs/heads/main/projects/banners/atm.gif" width="100%" alt="ATM project preview" /> | An AI-powered cryptocurrency price-movement prediction agent designed to provide market insights and trading signals. | [View code →](https://github.com/fifolio/ATM) |
+| **[Glori](https://github.com/fifolio/Glori)** | <!-- TODO: Replace with your Glori screenshot URL --> <img src="https://raw.githubusercontent.com/fifolio/fifolio/refs/heads/main/projects/banners/glori.gif" width="100%" alt="Glori project preview" /> | A full-stack luxury perfume e-commerce platform featuring product browsing, authentication, and checkout functionality. | [View code →](https://github.com/fifolio/Glori) |
 
 ### 💡 What these projects represent
 
